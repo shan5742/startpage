@@ -1,2 +1,3 @@
-# startpage
-simple startpage for browser with date, time, search and some frequent links
+# StartPage
+
+A simple start page for browser with date, time, search and some frequent links
