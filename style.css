@@ -1,0 +1,49 @@
+body {
+  background-color: #222c36;
+}
+
+.time {
+  text-align: center;
+  color: beige;
+  font-size: 160px;
+  margin-top: 80px;
+}
+
+.date {
+  text-align: center;
+  color: beige;
+  font-size: 40px;
+}
+
+.search {
+  margin: 0 auto;
+  width: 50%;
+}
+#search-bar {
+  background-color: transparent;
+  border: none;
+  border-bottom: 3px solid white;
+  width: 300px;
+  padding: 5px 0px 10px 0px;
+  display: initial;
+  min-width: 100%;
+  font-size: 4em;
+  outline: none;
+  color: #ececec;
+  padding-top: 5%;
+}
+
+#submit-button {
+  display: none;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 5%;
+}
+.grid-item {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
